@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenusKomet
 - 👀 I’m interested in learning new things and applying new knowledge.
-- 🌱 I’m currently learning C# and C++.
+- 🌱 I’m currently learning C#, Python and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
